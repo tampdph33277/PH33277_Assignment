@@ -1,0 +1,257 @@
+{
+  "users": [
+    {
+      "username": "johndoe12",
+      "email": "johndoe@email.co",
+      "password": "1234567",
+      "id": "faa9"
+    },
+    {
+      "fullname": "Jane Smith",
+      "email": "janesmith@email.com",
+      "username": "janesmith456",
+      "password": "password123",
+      "phone": "+1 987-654-3210",
+      "address": "456 Elm Street, City, State, ZIP",
+      "id": "2866"
+    },
+    {
+      "username": "davidjohnson789",
+      "email": "fg@gmail.com",
+      "phone": "09999999",
+      "address": "789 Oak Avenue, City, StateP",
+      "password": "12345678",
+      "id": "95bb"
+    },
+    {
+      "username": "tam111",
+      "email": "tam@gmail.com",
+      "password": "1",
+      "id": "34c9"
+    },
+    {
+      "id": "0d60",
+      "fullname": ".",
+      "email": "tam@gmail.com",
+      "username": "tam111",
+      "password": "111",
+      "phone": ".",
+      "address": "."
+    },
+    {
+      "username": "tam138",
+      "email": "tam138@gmail.com",
+      "phone": "Yên lạc",
+      "address": "Yêb lạc",
+      "password": "12345678",
+      "id": "3511"
+    },
+    {
+      "id": "e430",
+      "fullname": ".",
+      "email": "tam@gmail.com",
+      "username": "PhùngĐứcTâm",
+      "password": "12345678",
+      "phone": ".",
+      "address": "."
+    },
+    {
+      "username": "Shshsj",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "id": "cba0"
+    },
+    {
+      "id": "0b74",
+      "fullname": ".",
+      "email": "Duan@gmail.com",
+      "username": "VũĐìnhDuẩn",
+      "password": "12345678",
+      "phone": ".",
+      "address": "."
+    }
+  ],
+  "products": [
+    {
+      "image": "https://photographer.vn/wp-content/uploads/2019/07/5.3.jpg",
+      "status": "Capuccino",
+      "name": "Capuccino",
+      "price": "4.2",
+      "description": "A cappuccino is an espresso-based coffee drink that originated in Italy. It consists of a shot of espresso and steamed milk, with a layer of frothed milk on top.",
+      "id": "2dce"
+    },
+    {
+      "image": "https://bepvang.org.vn/Userfiles/Upload/images/Download/2016/8/4/a94990116a6b48668ac78d90d6cfdd71.jpg",
+      "status": "Espresso",
+      "name": "Espresso",
+      "price": "4.3",
+      "description": "Espresso is a concentrated coffee brewed by forcing a small amount of nearly boiling water through finely-ground coffee beans. It's the base for various coffee drinks.",
+      "id": "13cf"
+    },
+    {
+      "image": "https://saigonchic.vn/wp-content/uploads/2022/04/cafe-latte.jpeg",
+      "status": "Americano",
+      "name": "Americano",
+      "price": "5.1",
+      "description": "An Americano is a style of coffee prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee.",
+      "id": "2160"
+    }
+  ],
+  "carts": [
+    {
+      "id": "ca84",
+      "image": "https://photographer.vn/wp-content/uploads/2019/07/5.3.jpg",
+      "name": "Capuccino",
+      "quantity": 1,
+      "size": "L",
+      "price": "4.2"
+    },
+    {
+      "id": "40ae",
+      "image": "https://s3-alpha-sig.figma.com/img/0ed4/77b7/0d5052984d7848c0feaaf073901abb7d?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uce2D510kxGmV5YTOWvk4gP32NACaSqMbVsNjA4alobSAclajisVDVFGsCNx3XLyaF2c8LBYH1ORrbHU9JMJKYLwrYJvI5VeGFbyBanjYfUkOjAC7N6Q-E5KyT~olAfUrvkGAXMHSpgBnuLBBcvSpAGqvqJwThp-I2D1RAGZqodS-90FSfnyUmMlROAVSfiC2QXW6tX85E4Do2PgZkgoFv0TBUYL12J9mb79vf02SpGfpt05RQ228gxtzSDvqU1oHIjY04br4iwPoHi5J9HHphXpBRATUONXnkJVJ~KOXQXICaX3YIv6KSon2AtWMSghkbqZHI6Ba8i6hOrnGSAoLA__",
+      "name": "Capuccino",
+      "quantity": 1,
+      "size": "1000gm",
+      "price": "4.2"
+    },
+    {
+      "id": "d880",
+      "image": "https://s3-alpha-sig.figma.com/img/0ed4/77b7/0d5052984d7848c0feaaf073901abb7d?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uce2D510kxGmV5YTOWvk4gP32NACaSqMbVsNjA4alobSAclajisVDVFGsCNx3XLyaF2c8LBYH1ORrbHU9JMJKYLwrYJvI5VeGFbyBanjYfUkOjAC7N6Q-E5KyT~olAfUrvkGAXMHSpgBnuLBBcvSpAGqvqJwThp-I2D1RAGZqodS-90FSfnyUmMlROAVSfiC2QXW6tX85E4Do2PgZkgoFv0TBUYL12J9mb79vf02SpGfpt05RQ228gxtzSDvqU1oHIjY04br4iwPoHi5J9HHphXpBRATUONXnkJVJ~KOXQXICaX3YIv6KSon2AtWMSghkbqZHI6Ba8i6hOrnGSAoLA__",
+      "name": "Capuccino",
+      "quantity": 1,
+      "size": "1000gm",
+      "price": "4.2"
+    }
+  ],
+  "orders": [
+    {
+      "id": "4435",
+      "image": "https://photographer.vn/wp-content/uploads/2019/07/5.3.jpg",
+      "name": "Capuccino",
+      "quantity": 1,
+      "size": "M",
+      "price": "4.2"
+    },
+    {
+      "id": "4435",
+      "image": "https://photographer.vn/wp-content/uploads/2019/07/5.3.jpg",
+      "name": "Capuccino",
+      "quantity": 10,
+      "size": "s",
+      "price": "4.2"
+    },
+    {
+      "id": "3fa0",
+      "image": "https://photographer.vn/wp-content/uploads/2019/07/5.3.jpg",
+      "name": "Capuccino",
+      "quantity": 1,
+      "size": "L",
+      "price": "4.2"
+    },
+    {
+      "id": "524b",
+      "image": "data:image/png;base64,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",
+      "name": "Americano",
+      "quantity": 1,
+      "size": "1000gm",
+      "price": "5.1"
+    },
+    {
+      "id": "3bb7",
+      "image": "https://photographer.vn/wp-content/uploads/2019/07/5.3.jpg",
+      "name": "Capuccino",
+      "quantity": 2,
+      "size": "L",
+      "price": "4.2"
+    },
+    {
+      "id": "c561",
+      "image": "https://s3-alpha-sig.figma.com/img/0ed4/77b7/0d5052984d7848c0feaaf073901abb7d?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uce2D510kxGmV5YTOWvk4gP32NACaSqMbVsNjA4alobSAclajisVDVFGsCNx3XLyaF2c8LBYH1ORrbHU9JMJKYLwrYJvI5VeGFbyBanjYfUkOjAC7N6Q-E5KyT~olAfUrvkGAXMHSpgBnuLBBcvSpAGqvqJwThp-I2D1RAGZqodS-90FSfnyUmMlROAVSfiC2QXW6tX85E4Do2PgZkgoFv0TBUYL12J9mb79vf02SpGfpt05RQ228gxtzSDvqU1oHIjY04br4iwPoHi5J9HHphXpBRATUONXnkJVJ~KOXQXICaX3YIv6KSon2AtWMSghkbqZHI6Ba8i6hOrnGSAoLA__",
+      "name": "Capuccino",
+      "quantity": 3,
+      "size": "1000gm",
+      "price": "4.2"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "0b54",
+      "message": "G mmkvg"
+    },
+    {
+      "id": "f7c4",
+      "message": "G mmkvg"
+    },
+    {
+      "id": "1924",
+      "message": "tôi cần hỗ trợ"
+    },
+    {
+      "id": "8a18",
+      "message": "trợ"
+    },
+    {
+      "id": "6066",
+      "message": "tghsghsgh"
+    }
+  ],
+  "productCafe": [
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/0ed4/77b7/0d5052984d7848c0feaaf073901abb7d?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uce2D510kxGmV5YTOWvk4gP32NACaSqMbVsNjA4alobSAclajisVDVFGsCNx3XLyaF2c8LBYH1ORrbHU9JMJKYLwrYJvI5VeGFbyBanjYfUkOjAC7N6Q-E5KyT~olAfUrvkGAXMHSpgBnuLBBcvSpAGqvqJwThp-I2D1RAGZqodS-90FSfnyUmMlROAVSfiC2QXW6tX85E4Do2PgZkgoFv0TBUYL12J9mb79vf02SpGfpt05RQ228gxtzSDvqU1oHIjY04br4iwPoHi5J9HHphXpBRATUONXnkJVJ~KOXQXICaX3YIv6KSon2AtWMSghkbqZHI6Ba8i6hOrnGSAoLA__",
+      "status": "Capuccino",
+      "name": "Capuccino",
+      "price": "4.2",
+      "description": "A cappuccino is an espresso-based coffee drink that originated in Italy. It consists of a shot of espresso and steamed milk, with a layer of frothed milk on top.",
+      "id": "2dce"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/c3a5/62a1/72cfe4fbd9f1a8a582f3c62ec55cde05?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=E99cNJLDfoTc1tknC43BHxLt3~4uljfvlhi-761lG3TomfUXgfouVMk51huDh5USBNQWiO3FZWkLeajjjPE8S~66JHaGx5dkoqrDW48X3yYVDyiCCrPgdUf90e8uTWJ7DmwsyF1PbEHoSXCS--8DXIv21nE9~4XR-ULNKg80MxDZcOioCXv2RQ-2OPeYPW7~xXRO1YEaQ8KIh1I-PNK4PHya89bqfXv~jeOKpgh2T~mt3AfVwQtCnYl6Y35osfNFnTFAL3thvliJWCEB9r9GzkHWVZ7f2cEWQukRB7bn552Szcui561SX8HZxR5h8-dnOyDPmAtqunBIEwWNct7JGw__",
+      "status": "Espresso",
+      "name": "Espresso",
+      "price": "4.3",
+      "description": "Espresso is a concentrated coffee brewed by forcing a small amount of nearly boiling water through finely-ground coffee beans. It's the base for various coffee drinks.",
+      "id": "13cf"
+    },
+    {
+      "image": "data:image/png;base64,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",
+      "status": "Americano",
+      "name": "Americano",
+      "price": "5.1",
+      "description": "An Americano is a style of coffee prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee.",
+      "id": "2160"
+    },
+    {
+      "id": "b0f7",
+      "image": "https://s3-alpha-sig.figma.com/img/c3a5/62a1/72cfe4fbd9f1a8a582f3c62ec55cde05?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=E99cNJLDfoTc1tknC43BHxLt3~4uljfvlhi-761lG3TomfUXgfouVMk51huDh5USBNQWiO3FZWkLeajjjPE8S~66JHaGx5dkoqrDW48X3yYVDyiCCrPgdUf90e8uTWJ7DmwsyF1PbEHoSXCS--8DXIv21nE9~4XR-ULNKg80MxDZcOioCXv2RQ-2OPeYPW7~xXRO1YEaQ8KIh1I-PNK4PHya89bqfXv~jeOKpgh2T~mt3AfVwQtCnYl6Y35osfNFnTFAL3thvliJWCEB9r9GzkHWVZ7f2cEWQukRB7bn552Szcui561SX8HZxR5h8-dnOyDPmAtqunBIEwWNct7JGw__",
+      "name": "Espresso",
+      "quantity": 1,
+      "size": "500gm",
+      "price": "4.3"
+    }
+  ],
+  "favoriets": [
+    {
+      "id": "1c2c",
+      "image": "https://photographer.vn/wp-content/uploads/2019/07/5.3.jpg",
+      "name": "Capuccino",
+      "description": "A cappuccino is an espresso-based coffee drink that originated in Italy. It consists of a shot of espresso and steamed milk, with a layer of frothed milk on top."
+    },
+    {
+      "id": "531b",
+      "image": "https://s3-alpha-sig.figma.com/img/0ed4/77b7/0d5052984d7848c0feaaf073901abb7d?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Uce2D510kxGmV5YTOWvk4gP32NACaSqMbVsNjA4alobSAclajisVDVFGsCNx3XLyaF2c8LBYH1ORrbHU9JMJKYLwrYJvI5VeGFbyBanjYfUkOjAC7N6Q-E5KyT~olAfUrvkGAXMHSpgBnuLBBcvSpAGqvqJwThp-I2D1RAGZqodS-90FSfnyUmMlROAVSfiC2QXW6tX85E4Do2PgZkgoFv0TBUYL12J9mb79vf02SpGfpt05RQ228gxtzSDvqU1oHIjY04br4iwPoHi5J9HHphXpBRATUONXnkJVJ~KOXQXICaX3YIv6KSon2AtWMSghkbqZHI6Ba8i6hOrnGSAoLA__",
+      "name": "Capuccino",
+      "description": "A cappuccino is an espresso-based coffee drink that originated in Italy. It consists of a shot of espresso and steamed milk, with a layer of frothed milk on top."
+    }
+  ],
+  "nhanvien": [
+    {
+      "image": "https://scr.vn/wp-content/uploads/2020/07/H%C3%ACnh-n%E1%BB%81n-4k-Anime-%C4%91%E1%BA%B9p-scaled-1536x864.jpg",
+      "server_name_PH33277": "Ten",
+      "server_ip_PH33277": "10.24.28.255sjdj",
+      "status": 1,
+      "hotline": "333",
+      "u_number": "363",
+      "id": "f693"
+    }
+  ]
+}
